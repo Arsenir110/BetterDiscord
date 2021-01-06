@@ -4706,3 +4706,27 @@ div[role="radiogroup"] {
 
 .dc-tooltip .dc-tooltip-text::after {
   border-bottom-color: var(--popout-color) !important; }
+.peopleColumn-29fq28 {
+    margin-bottom: 72px;
+}
+
+.tabBody-3YRQ8W {
+    padding: 0;
+}
+
+.membersWrap-2h-GB4 {
+    margin: 0;
+}
+
+.content-yTz4x3:after,
+.tabBody-3YRQ8W:after {
+    left: 0;
+}
+
+.content-yTz4x3:after {
+    width: calc(100% - 240px);
+}
+
+.tabBody-3YRQ8W:after {
+    width: calc(100% - 360px);
+}
