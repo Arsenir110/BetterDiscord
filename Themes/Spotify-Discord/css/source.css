@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #1db954;
+  --accent-color: #2C7D4A;
   --accent-hover: #1ed760;
   --accent-rgb: 29,185,84;
   --alt-accent: #5680d4;
@@ -16,7 +16,7 @@
   --card-color: rgba(255,255,255,0.05);
   --card-border: var(--bar-color);
   --card-radius: 8px;
-  --slider-color: #b3b3b3;
+  --slider-color: #585858;
   --slider-background: var(--menu-border-color);
   --popout-color: var(--bar-color);
   --popout-radius: 7px;
@@ -25,8 +25,8 @@
   --menu-select-color: #4d4d4d;
   --menu-border-color: #424242;
   --menu-text-color: #b2b2b2;
-  --input-bg: #e0e0e0;
-  --input-text-color: #222;
+  --input-bg: ##777777;
+  --input-text-color: #3F653F;
   --input-placeholder-color: #444;
   --select-input-color: #363636;
   --textarea-radius: 22px;
